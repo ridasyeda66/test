@@ -1,0 +1,4 @@
+data/**/processed/stage2/
+__pycache__/
+.ipynb_checkpoints/
+*.pt
